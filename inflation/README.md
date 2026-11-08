@@ -1,4 +1,4 @@
-# Inflation (960 series)
+# Inflation (959 series)
 
 Free package: the last 12 months of the latest values for every series in this category, refreshed weekly.
 

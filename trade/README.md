@@ -1,4 +1,4 @@
-# Trade (1,432 series)
+# Trade (1,430 series)
 
 Free package: the last 12 months of the latest values for every series in this category, refreshed weekly.
 

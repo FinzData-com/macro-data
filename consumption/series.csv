@@ -31,7 +31,7 @@ A822RE1Q156NBEA,Shares of gross domestic product: Government consumption expendi
 A794RC0Q052SBEA,Personal consumption expenditures per capita,Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 DGDSRC1,Personal Consumption Expenditures: Goods,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-29
 DPCERL1Q225SBEA,Real Personal Consumption Expenditures,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
-NATURALGAS,Natural Gas Consumption,Billion Cubic Feet,Monthly,Not Seasonally Adjusted,2000-01-01,2026-10-01
+NATURALGAS,Natural Gas Consumption,Billion Cubic Feet,Monthly,Not Seasonally Adjusted,2000-01-01,2026-11-01
 DHLCRG3Q086SBEA,Personal consumption expenditures: Services: Health care (chain-type price index),Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-10-29
 DFDHRC1Q027SBEA,Personal consumption expenditures: Durable goods: Furnishings and durable household equipment,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 DPCCRC1M027SBEA,Personal consumption expenditures excluding food and energy,Billions of Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-29
@@ -40,7 +40,7 @@ A824RE1Q156NBEA,Shares of gross domestic product: Government consumption expendi
 DFXARX1M020SBEA,Real personal consumption expenditures: Food,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1995-01-01,2026-10-29
 PCDGCC96,Real Personal Consumption Expenditures: Durable Goods,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 PCENDC96,Real Personal Consumption Expenditures: Nondurable Goods,Billions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-29
-PCENOW,Nowcast for Real Personal Consumption Expenditures,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2011-07-01,2026-10-29
+PCENOW,Nowcast for Real Personal Consumption Expenditures,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2011-07-01,2026-11-04
 DHUTRC1Q027SBEA,Personal consumption expenditures: Services: Housing and utilities,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-29
 DPCXRG3M086SBEA,Personal consumption expenditures: Market-based PCE excluding food and energy (chain-type price index),Index 2017=100,Monthly,Seasonally Adjusted,1987-01-01,2026-10-29
 IA001176M,"Personal Consumption Expenditures Excluding Food, Energy, and Housing (Chain-Type Price Index)",Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-10-29
@@ -61,7 +61,7 @@ NA000349Q,Personal Consumption Expenditures,Millions of Dollars,Quarterly,Not Se
 DFSARX1Q020SBEA,Real personal consumption expenditures: Services: Food services and accommodations,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-10-29
 DGOERC1Q027SBEA,Personal consumption expenditures: Nondurable goods: Gasoline and other energy goods,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 DPCCRAM1M225NBEA,Real Personal Consumption Expenditures: PCE excluding food and energy,Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1959-02-01,2026-10-29
-NATURALGASD11,Natural Gas Consumption,Billion Cubic Feet,Monthly,Seasonally Adjusted,2000-01-01,2026-10-01
+NATURALGASD11,Natural Gas Consumption,Billion Cubic Feet,Monthly,Seasonally Adjusted,2000-01-01,2026-11-01
 PCECTPIMD,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Median",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2015-01-01,2026-09-16
 DFDHRX1Q020SBEA,Real personal consumption expenditures: Durable goods: Furnishings and durable household equipment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-10-29
 DFSARC1Q027SBEA,Personal consumption expenditures: Services: Food services and accommodations,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1959-01-01,2026-10-29
@@ -120,7 +120,7 @@ DNDGRA3M086SBEA,Real personal consumption expenditures: Nondurable goods (chain-
 DNRGRV1Q225SBEA,Personal Consumption Expenditures (PCE): Energy Goods and Services (chain-type price index),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-10-29
 EMVMACROCONSUME,Equity Market Volatility Tracker: Macroeconomic News and Outlook: Consumer Spending And Sentiment,Index,Monthly,Not Seasonally Adjusted,1985-01-01,2026-10-30
 PCECTPIRH,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, High",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
-PCEGOODSNOW,Nowcast for Real Personal Consumption Expenditures: Goods,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2012-04-01,2026-10-29
+PCEGOODSNOW,Nowcast for Real Personal Consumption Expenditures: Goods,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2012-04-01,2026-11-04
 A797RX0Q048SBEA,Real personal consumption expenditures per capita: Services,Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 A823RL1Q225SBEA,Real Government Consumption Expenditures and Gross Investment: Federal,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
 AB67RC1Q027SBEA,Personal consumption expenditures: New motor vehicles,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1967-01-01,2026-10-29
@@ -153,7 +153,7 @@ DODGRC1Q027SBEA,Personal consumption expenditures: Durable goods: Other durable 
 DPCCRL1Q225SBEA,Real Personal Consumption Expenditures (PCE) Excluding Food and Energy,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-10-29
 OB000349Q,Real Personal Consumption Expenditures,Percent Change from Quarter One Year Ago,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-10-29
 PC001260Q,Personal Consumption Expenditures: Services Excluding Energy and Housing (Chain-Type Price Index),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-10-29
-PCECONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-29
+PCECONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-11-04
 PCECTPICTL,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Low",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 SLCEC1,"Real State and Local Consumption Expenditures & Gross Investment, 1 Decimal",Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 WPUFD49203,Producer Price Index by Commodity: Final Demand: Total Finished Less Foods and Energy,Index Jan 2010=100,Monthly,Not Seasonally Adjusted,2010-01-01,2026-10-15
@@ -177,7 +177,7 @@ DREQRG3Q086SBEA,Personal consumption expenditures: Durable goods: Recreational g
 DSERRD3Q086SBEA,Personal consumption expenditures: Services (implicit price deflator),Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-10-29
 FGCEC1,Real Federal Consumption Expenditures and Gross Investment,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 IA001260Q,Personal Consumption Expenditures: Services Excluding Energy and Housing (Chain-Type Price Index),Index 2017=100,Quarterly,Seasonally Adjusted,1959-01-01,2026-10-29
-IMP0021,U.S. Imports of Goods by F.A.S. Basis to USMCA with Mexico (Consumption),Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2020-01-01,2026-10-06
+IMP0021,U.S. Imports of Goods by F.A.S. Basis to USMCA with Mexico (Consumption),Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2020-01-01,2026-11-04
 NB000349Q,Real Personal Consumption Expenditures,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-10-29
 ND000346Q,Real Personal Consumption Expenditures: Durable Goods,Billions of Chained 2017 Dollars,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-10-29
 OB000348Q,Real Personal Consumption Expenditures: Nondurable Goods,Percent Change from Quarter One Year Ago,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-10-29
@@ -207,15 +207,15 @@ DSERRA3M086SBEA,Real personal consumption expenditures: Services (chain-type qua
 DSERRA3Q086SBEA,Real personal consumption expenditures: Services (chain-type quantity index),Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-10-29
 DSERRG3Q086SBEA,Personal consumption expenditures: Services (chain-type price index),Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-10-29
 DSERRY2Q224SBEA,Contributions to percent change in real gross domestic product: Personal consumption expenditures: Services,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
-IMP0022,U.S. Imports of Goods by F.A.S. Basis to USMCA with Canada (Consumption),Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2020-01-01,2026-10-06
+IMP0022,U.S. Imports of Goods by F.A.S. Basis to USMCA with Canada (Consumption),Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2020-01-01,2026-11-04
 JCXFERL,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Range, Low",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 LB001176M,"Real Personal Consumption Expenditures Excluding Food, Energy, and Housing",Millions of Chained 2017 Dollars,Monthly,Seasonally Adjusted Annual Rate,2007-01-01,2026-10-29
 NA000350Q,Personal Consumption Expenditures: Services,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-10-29
 NAEXKP03USQ657S,National Accounts: GDP by Expenditure: Constant Prices: Government Final Consumption Expenditure for United States,Growth rate previous period,Quarterly,Seasonally Adjusted,1955-04-01,2026-10-15
 NC000346Q,Personal Consumption Expenditures: Durable Goods,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-10-29
 PC001176Q,"Personal Consumption Expenditures (PCE) Excluding Food, Energy, Housing (Chain-Type Price Index)",Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-10-29
-PCESERVICESCONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Services,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-29
-PCESERVICESNOW,Nowcast for Real Personal Consumption Expenditures: Services,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2012-04-01,2026-10-29
+PCESERVICESCONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Services,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-11-04
+PCESERVICESNOW,Nowcast for Real Personal Consumption Expenditures: Services,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2012-04-01,2026-11-04
 PP001176M,"Prices for Personal Consumption Expenditures: Chained Price Index: PCE Excluding Food, Energy, and Housing",Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1959-02-01,2026-10-29
 W279RC1Q027SBEA,Consumption of fixed capital: Private: Households and institutions,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 WPU54110101,Producer Price Index by Commodity: Food and Beverage for Immediate Consumption Services (Partial): Food and Nonalcoholic Beverages for Immediate Consumption (Partial),Index Apr 2009=100,Monthly,Not Seasonally Adjusted,2009-04-01,2026-10-15
@@ -260,7 +260,7 @@ DREQRL1Q225SBEA,Real Personal Consumption Expenditures: Goods: Durable Goods: Re
 DREQRV1Q225SBEA,Personal Consumption Expenditures: Goods: Durable Goods: Recreational Goods and Vehicles (chain-type price index),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
 DTRSRG3Q086SBEA,Personal consumption expenditures: Transportation services (chain-type price index),Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-10-29
 DTRSRX1Q020SBEA,Real personal consumption expenditures: Transportation services,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-10-29
-EXP0022,U.S. Exports of Goods by F.A.S. Basis to USMCA with Canada (Consumption),Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2020-01-01,2026-10-06
+EXP0022,U.S. Exports of Goods by F.A.S. Basis to USMCA with Canada (Consumption),Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2020-01-01,2026-11-04
 IA001176Q,"Personal Consumption Expenditures Excluding Food, Energy, and Housing (Chain-Type Price Index)",Index 2017=100,Quarterly,Seasonally Adjusted,1959-01-01,2026-10-29
 JCXFECTL,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Central Tendency, Low",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 JCXFERH,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Range, High",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
@@ -369,7 +369,7 @@ DREQRY2Q224SBEA,Contributions to percent change in real gross domestic product: 
 DSERRL1Q225SBEA,Real Personal Consumption Expenditures: Services,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
 DSERRO1Q156NBEA,Real Personal Consumption Expenditures: Services,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1948-01-01,2026-10-29
 DSERRV1Q225SBEA,Personal Consumption Expenditures: Services (chain-type price index),Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
-EXP0021,U.S. Exports of Goods by F.A.S. Basis to USMCA with Mexico (Consumption),Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2020-01-01,2026-10-06
+EXP0021,U.S. Exports of Goods by F.A.S. Basis to USMCA with Mexico (Consumption),Millions of U.S. Dollars,Monthly,Not Seasonally Adjusted,2020-01-01,2026-11-04
 FBCFCEQ027S,"Domestic Financial Sectors; Consumption of Fixed Capital, Nonresidential Structures, Equipment, and Intellectual Property Products, Including Noncorporate Financial, Current Cost Basis (IMA), Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
 HNOCCFQ027S,"Households and Nonprofit Organizations; Consumption of Fixed Capital, Structures, Equipment, and Intellectual Property Products, Current Cost Basis (NIPA Basis), Transactions",Millions of U.S. Dollars,"Quarterly, End of Period",Seasonally Adjusted Annual Rate,1945-10-01,2026-09-11
 IB001176M,"Real Personal Consumption Expenditures Excluding Food, Energy, and Housing (Chain-Type Quantity Index)",Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-10-29
@@ -394,7 +394,7 @@ PB001176Q,"Real Personal Consumption Expenditures (PCE) Excluding Food, Energy, 
 PCECTPICTH,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, High",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
 PCECTPICTHLR,"Longer Run FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, High",Fourth Quarter to Fourth Quarter Percent Change,Not Applicable,Not Seasonally Adjusted,2009-02-18,2026-09-16
 PCECTPIRL,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Range, Low",Fourth Quarter to Fourth Quarter Percent Change,Annual,Not Seasonally Adjusted,2007-01-01,2026-09-16
-PCEGOODSCONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Goods,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-10-29
+PCEGOODSCONTRIBNOW,Contributions to percent change in GDPNow: Real Personal Consumption Expenditures: Goods,Percentage Points,Quarterly,Seasonally Adjusted,2014-04-01,2026-11-04
 W087RC1Q027SBEA,Federal government consumption expenditures: Defense consumption expenditures: Gross output of general government: Intermediate goods and services purchased,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 W101RC1Q027SBEA,Government consumption expenditures: Gross output of general government,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29
 W102RC1Q027SBEA,Government consumption expenditures: Gross output of general government: Value added,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-29

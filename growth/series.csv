@@ -22,7 +22,7 @@ NGDPRSAXDCMXQ,Real Gross Domestic Product (GDP) for Mexico,Millions of Domestic 
 NA000334Q,Gross Domestic Product,Millions of Dollars,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-10-29
 NGDPRSAXDCKRQ,Real Gross Domestic Product for Republic of Korea,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1960-01-01,2026-07-27
 A006RE1Q156NBEA,Shares of gross domestic product: Gross private domestic investment,Percent,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-10-29
-BBKMGDP,Brave-Butters-Kelley Real Gross Domestic Product,Annualized Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1960-01-01,2026-10-05
+BBKMGDP,Brave-Butters-Kelley Real Gross Domestic Product,Annualized Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1960-01-01,2026-11-02
 NGDPPOT,Nominal Potential Gross Domestic Product,Billions of Dollars,Quarterly,Not Seasonally Adjusted,1949-01-01,2026-02-27
 NGDPRSAXDCBRQ,Real Gross Domestic Product (GDP) for Brazil,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-07
 W207RC1Q156SBEA,Net saving as a percentage of gross national income,Percent,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-10-01
@@ -35,11 +35,11 @@ ND000334Q,Real Gross Domestic Product,Billions of Chained 2017 Dollars,Quarterly
 CPGDPAI,Contributions to Percent Change in Real GDP by Industry: Gross Domestic Product,Percentage Points,Quarterly,Seasonally Adjusted Annual Rate,2005-04-01,2026-09-30
 NGDPRSAXDCZAQ,Real Gross Domestic Product for South Africa,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-15
 NGDPNSAXDCUSQ,Nominal Gross Domestic Product (GDP) for United States,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1950-01-01,2026-09-07
-NGDPRNSAXDCRUQ,Real Gross Domestic Product for Russia,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-07-13
 NGDPRSAXDCTRQ,Real Gross Domestic Product (GDP) for Republic of Türkiye,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
 NGDPSAXDCAUQ,Nominal Gross Domestic Product (GDP) for Australia,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1959-07-01,2026-09-07
 PB0000091Q225SBEA,Real Average of GDP and GDI,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
 USMANRQGSP,Real Gross Domestic Product: Manufacturing (31-33) in the United States,Millions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
+NGDPRNSAXDCRUQ,Real Gross Domestic Product (GDP) for Russian Federation,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2003-01-01,2026-11-02
 NGDPSAXDCJPQ,Nominal Gross Domestic Product (GDP) for Japan,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07
 TXRQGSP,Real Gross Domestic Product: All Industry Total in Texas,Millions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 A261RX1Q020SBEA,Real gross domestic income,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
@@ -62,12 +62,11 @@ NGDPSAXDCKRQ,Nominal Gross Domestic Product for Republic of Korea,Millions of Do
 USMANNQGSP,Gross Domestic Product: Manufacturing (31-33) in the United States,Millions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 VAPGDPSPI,Value Added by Industry: Private Services-Producing Industries as a Percentage of GDP,Percent,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-09-30
 A023RC1Q027SBEA,Gross national income,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-NGDPRSAXDCPLQ,Real Gross Domestic Product (GDP) for Republic of Poland,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-14
+NGDPRSAXDCPLQ,Real Gross Domestic Product (GDP) for Republic of Poland,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-11-02
 W206RC1Q156SBEA,Gross saving as a percentage of gross national income,Percent,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 B935RY2Q224SBEA,Contributions to percent change in real gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Equipment: Information processing equipment: Computers and peripheral equipment,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-10-29
 GDPC1MDLR,"Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Median",Fourth Quarter to Fourth Quarter Percent Change,Not Applicable,Not Seasonally Adjusted,2015-06-17,2026-09-16
 GNPC96,Real Gross National Product,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
-NGDPNSAXDCRUQ,Nominal Gross Domestic Product for Russia,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-07-13
 NGDPSAXDCMXQ,Nominal Gross Domestic Product for Mexico,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-29
 Y034RY2Q224SBEA,Contributions to Percent Change in Real Gross Domestic Product: Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment: Information Processing Equipment,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
 FLNQGSP,Gross Domestic Product: All Industry Total in Florida,Millions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
@@ -94,12 +93,13 @@ B021RE1Q156NBEA,Shares of gross domestic product: Imports of goods and services,
 GDINOS,Gross Domestic Income: Net Operating Surplus,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1959-01-01,2026-09-30
 LB0000091Q020SBEA,Real Average of GDP and GDI,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1947-01-01,2026-09-30
 NGDPNSAXDCBRQ,Nominal Gross Domestic Product (GDP) for Brazil,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
+NGDPNSAXDCRUQ,Nominal Gross Domestic Product (GDP) for Russian Federation,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-11-02
 NGDPSAXDCTRQ,Nominal Gross Domestic Product (GDP) for Republic of Türkiye,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
 A007RE1Q156NBEA,Shares of gross domestic product: Gross private domestic investment: Fixed investment,Percent,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-10-29
 B985RY2Q224SBEA,Contributions to percent change in real gross domestic product: Gross private domestic investment: Fixed investment: Nonresidential: Intellectual property products: Software,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1959-04-01,2026-10-29
-BBKMCY,Brave-Butters-Kelley Cycle Component of GDP,Annualized Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1960-01-01,2026-10-05
+BBKMCY,Brave-Butters-Kelley Cycle Component of GDP,Annualized Percent Change from Preceding Period,Monthly,Seasonally Adjusted,1960-01-01,2026-11-02
 NGDPRSAXDCUSQ,Real Gross Domestic Product (GDP) for United States,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1950-01-01,2026-09-07
-NGDPSAXDCPLQ,Nominal Gross Domestic Product (GDP) for Republic of Poland,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-14
+NGDPSAXDCPLQ,Nominal Gross Domestic Product (GDP) for Republic of Poland,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-11-02
 W370RG3Q020SBEA,"Gross domestic product: Terms of trade index: Terms of trade, goods",Index,Quarterly,Seasonally Adjusted,1967-01-01,2026-10-29
 GARQGSP,Real Gross Domestic Product: All Industry Total in Georgia,Millions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 IARQGSP,Real Gross Domestic Product: All Industry Total in Iowa,Millions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30

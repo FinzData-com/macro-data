@@ -1,0 +1,13 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+FZCURVE_BRENT_WTI,Brent minus WTI (front-month futures),Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_CARRY,"Brent crude oil roll yield (M1 vs M2, annualised)",Percent,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M1,Brent crude oil futures curve: month 1 (M1),Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M10,Brent crude oil futures curve: month 10 (M10),Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M11,Brent crude oil futures curve: month 11 (M11),Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M12,Brent crude oil futures curve: month 12 (M12),Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M1M12,"Brent crude oil calendar spread, M1 minus M12",Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M1M2,"Brent crude oil calendar spread, M1 minus M2",Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M1M3,"Brent crude oil calendar spread, M1 minus M3",Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M1M6,"Brent crude oil calendar spread, M1 minus M6",Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M2,Brent crude oil futures curve: month 2 (M2),Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07
+FZCURVE_BZ_M3,Brent crude oil futures curve: month 3 (M3),Dollars per Barrel,Daily,Not Seasonally Adjusted,2008-02-25,2026-11-07

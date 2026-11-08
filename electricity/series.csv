@@ -24,11 +24,11 @@ PCU335122335122,Producer Price Index by Industry: Nonresidential Electric Lighti
 PCU3351223351221,"Producer Price Index by Industry: Nonresidential Electric Lighting Fixture Manufacturing: Commercial and Institutional-Type Electric Lighting Fixtures, Including Parts and Accessories",Index Jun 1981=100,Monthly,Not Seasonally Adjusted,1968-01-01,2026-10-15
 PCU336320336320,Producer Price Index by Industry: Motor Vehicle Electrical and Electronic Equipment Manufacturing,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-10-15
 WPS054,Producer Price Index by Commodity: Fuels and Related Products and Power: Electric Power,Index 1982=100,Monthly,Seasonally Adjusted,1973-01-01,2026-10-15
-A35ANO,Manufacturers' New Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-10-02
+A35ANO,Manufacturers' New Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-11-03
 CAPUTLG2211SQ,"Capacity Utilization: Utilities: Electric Power Generation, Transmission, and Distribution (NAICS = 2211)",Percent,Quarterly,Seasonally Adjusted,1967-01-01,2026-10-16
 IPN22112MS,Industrial Production: Utilities: Industrial Electricity Sales (NAICS = 22112pt.),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 W003RX1Q020SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication,Billions of Chained 2017 Dollars,Quarterly,Seasonally Adjusted Annual Rate,1995-01-01,2026-10-29
-A35AVS,Manufacturers' Value of Shipments: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-10-02
+A35AVS,Manufacturers' Value of Shipments: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-11-03
 IP8501,Import Price Index (Harmonized System): Electric Motors and Generators (Excludes Generating Sets),Index 2000=100,Monthly,Not Seasonally Adjusted,1992-12-01,2026-10-16
 IPG22111S,Industrial Production: Utilities: Electric Power Generation (NAICS = 22111),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 PCU3334153334152,"Producer Price Index by Industry: Air-Conditioning, Refrigeration, and Forced Air Heating Equipment Manufacturing: Heat Transfer Equipment (Except Electric Dehumidifiers), Mechanically Refrigerated, Self-Contained",Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-10-15
@@ -64,7 +64,7 @@ PCU334515334515P,Producer Price Index by Industry: Electricity and Signal Testin
 PCU3359323359324,"Producer Price Index by Industry: Noncurrent-Carrying Wiring Device Manufacturing: Noncurrent-Carrying Electrical Conduit and Conduit Fittings, Including Plastic Conduit and Fittings",Index Dec 1981=100,Monthly,Not Seasonally Adjusted,1973-01-01,2026-10-15
 REV2211TAXABL144QNSA,"Total Revenue for 2211: Electric Power Generation, Transmission and Distribution, Establishments Subject to Federal Income Tax",Millions of Dollars,Quarterly,Not Seasonally Adjusted,2010-01-01,2026-09-09
 REV2211TMSA,"Total Revenue for 2211: Electric Power Generation, Transmission and Distribution, Establishments Subject to Federal Income Tax",Millions of Dollars,Quarterly,Seasonally Adjusted,2010-01-01,2026-09-09
-U35AVS,Manufacturers' Value of Shipments: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-10-02
+U35AVS,Manufacturers' Value of Shipments: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-11-03
 WPU054321,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power,Index Dec 1990=100,Monthly,Not Seasonally Adjusted,1990-12-01,2026-10-15
 WPU117929,Producer Price Index by Commodity: Machinery and Equipment: Miscellaneous Electrical Industrial Apparatus,Index Dec 1985=100,Monthly,Not Seasonally Adjusted,1985-12-01,2026-10-15
 APU030072610,Average Price: Electricity per Kilowatt-Hour in the South Census Region - Urban,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14
@@ -112,8 +112,8 @@ WPU10660114,"Producer Price Index by Commodity: Metals and Metal Products: House
 WPU11440356,"Producer Price Index by Commodity: Machinery and Equipment: Work Trucks with Lifting and Handling Equipment, Non-Riding Electric or Any Non-Electric",Index Jun 2002=100,Monthly,Not Seasonally Adjusted,2002-06-01,2026-10-15
 WPU1179,Producer Price Index by Commodity: Machinery and Equipment: Miscellaneous Electrical Machinery and Equipment,Index 1982=100,Monthly,Not Seasonally Adjusted,1960-12-01,2026-10-15
 WPUSI089011,"Producer Price Index by Commodity: Special Indexes: Machinery and Equipment, Except Electrical",Index 1982=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-10-16
-A35ATI,Manufacturers' Total Inventories: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-10-02
-A35AUO,Manufacturers' Unfilled Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-10-02
+A35ATI,Manufacturers' Total Inventories: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-11-03
+A35AUO,Manufacturers' Unfilled Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-11-03
 CAPG2211A2S,"Industrial Capacity: Utilities: Electric and Gas Utilities (NAICS = 2211,2)",Index 2017=100,Monthly,Seasonally Adjusted,1967-01-01,2026-10-16
 CAPG2211A2SQ,"Industrial Capacity: Utilities: Electric and Gas Utilities (NAICS = 2211,2)",Index 2017=100,Quarterly,Seasonally Adjusted,1967-01-01,2026-10-16
 CAPG2211SQ,"Industrial Capacity: Utilities: Electric Power Generation, Transmission, and Distribution (NAICS = 2211)",Index 2017=100,Quarterly,Seasonally Adjusted,1967-01-01,2026-10-16
@@ -205,8 +205,9 @@ RIWN22112CS,Relative Importance Weights: Utilities: Commercial and Other Electri
 RIWN22112MS,Relative Importance Weights: Utilities: Industrial Electricity Sales (NAICS = 22112pt.),Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 RIWN22112RS,Relative Importance Weights: Utilities: Residential Electricity Sales (NAICS = 22112pt.),Percent,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 TX43221100M175FRBDAL,"Utilities: Electric Power Generation, Transmission and Distribution Payroll Employment in Texas",Thousands of Persons,Monthly,Seasonally Adjusted,1990-01-01,2026-08-21
-U35ANO,Manufacturers' New Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-10-02
-U35AUO,Manufacturers' Unfilled Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-10-02
+U35ANO,Manufacturers' New Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-11-03
+U35ATI,Manufacturers' Total Inventories: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-11-03
+U35AUO,Manufacturers' Unfilled Orders: Electric Lighting Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Not Seasonally Adjusted,1992-01-01,2026-11-03
 W003RA3Q086SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication (chain-type quantity index),Index 2017=100,Quarterly,Seasonally Adjusted,1958-01-01,2026-10-29
 W003RG3Q086SBEA,Real private fixed investment: Nonresidential: Structures: Power and communication (chain-type price index),Index 2017=100,Quarterly,Seasonally Adjusted,1958-01-01,2026-10-29
 WPS0541,Producer Price Index by Commodity: Fuels and Related Products and Power: Residential Electric Power,Index Dec 1990=100,Monthly,Seasonally Adjusted,1990-12-01,2026-10-15
