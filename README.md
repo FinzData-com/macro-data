@@ -1,5 +1,3 @@
-<p align="center"><a href="https://finzdata.com"><img src="https://finzdata.com/assets/brand/finzdata-logo-full.png" alt="FinzData" width="360"></a></p>
-
 # FinzData macro data
 
 [![Series](https://img.shields.io/badge/series-9632-0B1B3F)](https://finzdata.com/datasets)
