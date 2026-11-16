@@ -16,7 +16,7 @@ NCPRSAXDCARQ,"Real Final Consumption Expenditure, Private Sector for Argentina",
 NCPRSAXDCBRQ,"Real Final Consumption Expenditure, Private Sector for Brazil",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-09-07
 NCPRSAXDCITQ,"Real Final Consumption Expenditure, Private Sector for Italy",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-10-12
 NCPRSAXDCMXQ,"Real Final Consumption Expenditure, Private Sector for Mexico",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-29
-NCRSAXDCFRQ,Real Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NCRSAXDCFRQ,Real Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-11-09
 NCRSAXDCGBQ,Real Final Consumption Expenditure for United Kingdom,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-09-07
 NAEXKP02DEQ659S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for Germany,Growth rate same period previous year,Quarterly,Seasonally Adjusted,1971-01-01,2026-10-15
 NAEXKP02GBQ657S,National Accounts: GDP by Expenditure: Constant Prices: Private Final Consumption Expenditure for United Kingdom,Growth rate previous period,Quarterly,Seasonally Adjusted,1955-04-01,2026-10-15
@@ -204,8 +204,8 @@ NCGGNSAXDCAUQ,"Nominal Final Consumption Expenditure, General Government for Aus
 NCGGNSAXDCBRQ,"Nominal Final Consumption Expenditure, General Government for Brazil",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
 NCGGNSAXDCCAQ,"Nominal Final Consumption Expenditure, General Government for Canada",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1961-01-01,2026-09-07
 NCGGNSAXDCDEQ,"Nominal Final Consumption Expenditure, General Government for Germany",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
-NCGGNSAXDCESQ,"Nominal Final Consumption Expenditure, General Government for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
-NCGGNSAXDCFRQ,"Nominal Final Consumption Expenditure, General Government for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCGGNSAXDCESQ,"Nominal Final Consumption Expenditure, General Government for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-11-09
+NCGGNSAXDCFRQ,"Nominal Final Consumption Expenditure, General Government for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-11-09
 NCGGNSAXDCGBQ,"Nominal Final Consumption Expenditure, General Government for United Kingdom",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
 NCGGNSAXDCIDQ,"Nominal Final Consumption Expenditure, General Government for Indonesia",Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
 NCGGNSAXDCINQ,"Nominal Final Consumption Expenditure, General Government for India",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-04-01,2026-09-07
@@ -221,8 +221,8 @@ NCGGNSAXDCZAQ,"Nominal Final Consumption Expenditure, General Government for Sou
 NCGGRNSAXDCAUQ,"Real Final Consumption Expenditure, General Government for Australia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1959-07-01,2026-09-07
 NCGGRNSAXDCBRQ,"Real Final Consumption Expenditure, General Government for Brazil",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
 NCGGRNSAXDCDEQ,"Real Final Consumption Expenditure, General Government for Germany",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
-NCGGRNSAXDCESQ,"Real Final Consumption Expenditure, General Government for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
-NCGGRNSAXDCFRQ,"Real Final Consumption Expenditure, General Government for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCGGRNSAXDCESQ,"Real Final Consumption Expenditure, General Government for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-11-09
+NCGGRNSAXDCFRQ,"Real Final Consumption Expenditure, General Government for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-11-09
 NCGGRNSAXDCITQ,"Real Final Consumption Expenditure, General Government for Italy",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-10-12
 NCGGRNSAXDCJPQ,"Real Final Consumption Expenditure, General Government for Japan",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1994-01-01,2026-09-07
 NCGGRNSAXDCKRQ,"Real Final Consumption Expenditure, General Government for Republic of Korea",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1960-01-01,2026-07-27
@@ -256,8 +256,8 @@ NCPNSAXDCAUQ,"Nominal Final Consumption Expenditure, Private Sector for Australi
 NCPNSAXDCBRQ,"Nominal Final Consumption Expenditure, Private Sector for Brazil",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
 NCPNSAXDCCAQ,"Nominal Final Consumption Expenditure, Private Sector for Canada",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1961-01-01,2026-09-07
 NCPNSAXDCDEQ,"Nominal Final Consumption Expenditure, Private Sector for Germany",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
-NCPNSAXDCESQ,"Nominal Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
-NCPNSAXDCFRQ,"Nominal Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCPNSAXDCESQ,"Nominal Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-11-09
+NCPNSAXDCFRQ,"Nominal Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-11-09
 NCPNSAXDCGBQ,"Nominal Final Consumption Expenditure, Private Sector for United Kingdom",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
 NCPNSAXDCIDQ,"Nominal Final Consumption Expenditure, Private Sector for Indonesia",Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
 NCPNSAXDCITQ,"Nominal Final Consumption Expenditure, Private Sector for Italy",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-12
@@ -272,8 +272,8 @@ NCPNSAXDCZAQ,"Nominal Final Consumption Expenditure, Private Sector for South Af
 NCPRNSAXDCARQ,"Real Final Consumption Expenditure, Private Sector for Argentina",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
 NCPRNSAXDCAUQ,"Real Final Consumption Expenditure, Private Sector for Australia",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1959-07-01,2026-09-07
 NCPRNSAXDCDEQ,"Real Final Consumption Expenditure, Private Sector for Germany",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1991-01-01,2026-09-14
-NCPRNSAXDCESQ,"Real Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
-NCPRNSAXDCFRQ,"Real Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCPRNSAXDCESQ,"Real Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-11-09
+NCPRNSAXDCFRQ,"Real Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-11-09
 NCPRNSAXDCGBQ,"Real Final Consumption Expenditure, Private Sector for United Kingdom",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
 NCPRNSAXDCIDQ,"Real Final Consumption Expenditure, Private Sector for Indonesia",Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
 NCPRNSAXDCITQ,"Real Final Consumption Expenditure, Private Sector for Italy",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-10-12
@@ -281,8 +281,8 @@ NCPRNSAXDCMXQ,"Real Final Consumption Expenditure, Private Sector for Mexico",Mi
 NCPRNSAXDCPLQ,"Real Final Consumption Expenditure, Private Sector for Republic of Poland",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-11-02
 NCPRNSAXDCTRQ,"Real Final Consumption Expenditure, Private Sector for Republic of Türkiye",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-10-05
 NCPRNSAXDCZAQ,"Real Final Consumption Expenditure, Private Sector for South Africa",Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1993-01-01,2026-06-15
-NCPRSAXDCESQ,"Real Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
-NCPRSAXDCFRQ,"Real Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NCPRSAXDCESQ,"Real Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-11-09
+NCPRSAXDCFRQ,"Real Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-11-09
 NCPRSAXDCJPQ,"Real Final Consumption Expenditure, Private Sector for Japan",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07
 NCPRSAXDCPLQ,"Real Final Consumption Expenditure, Private Sector for Republic of Poland",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-11-02
 NCPRSAXDCTRQ,"Real Final Consumption Expenditure, Private Sector for Republic of Türkiye",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
@@ -291,8 +291,8 @@ NCPSAXDCAUQ,"Nominal Final Consumption Expenditure, Private Sector for Australia
 NCPSAXDCBRQ,"Nominal Final Consumption Expenditure, Private Sector for Brazil",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-06-22
 NCPSAXDCCAQ,"Nominal Final Consumption Expenditure, Private Sector for Canada",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
 NCPSAXDCDEQ,"Nominal Final Consumption Expenditure, Private Sector for Germany",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-14
-NCPSAXDCESQ,"Nominal Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-05
-NCPSAXDCFRQ,"Nominal Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NCPSAXDCESQ,"Nominal Final Consumption Expenditure, Private Sector for Spain",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-11-09
+NCPSAXDCFRQ,"Nominal Final Consumption Expenditure, Private Sector for France",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-11-09
 NCPSAXDCGBQ,"Nominal Final Consumption Expenditure, Private Sector for United Kingdom",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1955-01-01,2026-09-07
 NCPSAXDCIDQ,"Nominal Final Consumption Expenditure, Private Sector for Indonesia",Billions of Domestic Currency,Quarterly,Seasonally Adjusted,2000-01-01,2026-09-07
 NCPSAXDCJPQ,"Nominal Final Consumption Expenditure, Private Sector for Japan",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07
@@ -303,7 +303,7 @@ NCPSAXDCTRQ,"Nominal Final Consumption Expenditure, Private Sector for Republic 
 NCPSAXDCZAQ,"Nominal Final Consumption Expenditure, Private Sector for South Africa",Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1993-01-01,2026-06-15
 NCRNSAXDCARQ,Real Final Consumption Expenditure for Argentina,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2004-01-01,2026-06-29
 NCRNSAXDCBRQ,Real Final Consumption Expenditure for Brazil,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-09-07
-NCRNSAXDCFRQ,Real Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-09-14
+NCRNSAXDCFRQ,Real Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1980-01-01,2026-11-09
 NCRNSAXDCGBQ,Real Final Consumption Expenditure for United Kingdom,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1995-01-01,2026-09-07
 NCRNSAXDCIDQ,Real Final Consumption Expenditure for Indonesia,Billions of Domestic Currency,Quarterly,Not Seasonally Adjusted,2008-01-01,2026-09-07
 NCRNSAXDCITQ,Real Final Consumption Expenditure for Italy,Millions of Domestic Currency,Quarterly,Not Seasonally Adjusted,1996-01-01,2026-10-12
@@ -317,7 +317,7 @@ NCRSAXDCPLQ,Real Final Consumption Expenditure for Republic of Poland,Millions o
 NCSAXDCAUQ,Nominal Final Consumption Expenditure for Australia,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1959-07-01,2026-09-07
 NCSAXDCBRQ,Nominal Final Consumption Expenditure for Brazil,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1996-01-01,2026-06-22
 NCSAXDCCAQ,Nominal Final Consumption Expenditure for Canada,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
-NCSAXDCFRQ,Nominal Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NCSAXDCFRQ,Nominal Final Consumption Expenditure for France,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-11-09
 NCSAXDCGBQ,Nominal Final Consumption Expenditure for United Kingdom,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1955-01-01,2026-09-07
 NCSAXDCITQ,Nominal Final Consumption Expenditure for Italy,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1995-01-01,2026-10-12
 NCSAXDCJPQ,Nominal Final Consumption Expenditure for Japan,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07

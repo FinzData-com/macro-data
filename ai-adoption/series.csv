@@ -1,0 +1,5 @@
+id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
+RAMPAIALL,Artificial Intelligence Adoption by Ramp Businesses: Overall,Percent,Monthly,Not Seasonally Adjusted,2023-01-01,2026-11-11
+RAMPAIENTERPRISE,Artificial Intelligence Adoption by Ramp Businesses: Company Size: Large Businesses,Percent,Monthly,Not Seasonally Adjusted,2023-01-01,2026-11-11
+RAMPAIMIDMARKET,Artificial Intelligence Adoption by Ramp Businesses: Company Size: Medium-Sized Businesses,Percent,Monthly,Not Seasonally Adjusted,2023-01-01,2026-11-11
+RAMPAISMB,Artificial Intelligence Adoption by Ramp Businesses: Company Size: Small Businesses,Percent,Monthly,Not Seasonally Adjusted,2023-01-01,2026-11-11

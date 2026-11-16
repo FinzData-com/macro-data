@@ -5,7 +5,7 @@ A939RX0Q048SBEA,Real gross domestic product per capita,Chained 2017 Dollars,Quar
 A191RL1Q225SBEA,Real Gross Domestic Product,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
 GDPPOT,Real Potential Gross Domestic Product,Billions of Chained 2017 Dollars,Quarterly,Not Seasonally Adjusted,1949-01-01,2026-02-27
 NGDPSAXDCUSQ,Nominal Gross Domestic Product (GDP) for United States,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1950-01-01,2026-09-07
-STLENI,St. Louis Fed Economic News Index: Real GDP Nowcast,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2013-04-01,2026-10-23
+STLENI,St. Louis Fed Economic News Index: Real GDP Nowcast,Percent Change at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,2013-04-01,2026-11-13
 CFNAI,Chicago Fed National Activity Index,Index,Monthly,Not Seasonally Adjusted,1967-03-01,2026-10-26
 NGDPRSAXDCCAQ,Real Gross Domestic Product (GDP) for Canada,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
 GNP,Gross National Product,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1939-01-01,2026-09-30
@@ -56,7 +56,7 @@ A019RY2Q224SBEA,Contributions to percent change in real gross domestic product: 
 A261RL1Q225SBEA,Real Gross Domestic Income,Percent Change from Preceding Period,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-09-30
 B020RE1Q156NBEA,Shares of gross domestic product: Exports of goods and services,Percent,Quarterly,Not Seasonally Adjusted,1947-01-01,2026-10-29
 NGDPRSAXDCSAQ,Real Gross Domestic Product (GDP) for Saudi Arabia,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,2010-01-01,2026-09-07
-NGDPSAXDCDEQ,Nominal Gross Domestic Product (GDP) for Germany,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-14
+NGDPSAXDCDEQ,Nominal Gross Domestic Product (GDP) for Germany,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-11-09
 NGDPSAXDCCAQ,Nominal Gross Domestic Product (GDP) for Canada,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1961-01-01,2026-09-07
 NGDPSAXDCKRQ,Nominal Gross Domestic Product for Republic of Korea,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1960-01-01,2026-06-15
 USMANNQGSP,Gross Domestic Product: Manufacturing (31-33) in the United States,Millions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
@@ -71,8 +71,8 @@ NGDPSAXDCMXQ,Nominal Gross Domestic Product for Mexico,Millions of Domestic Curr
 Y034RY2Q224SBEA,Contributions to Percent Change in Real Gross Domestic Product: Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment: Information Processing Equipment,Percentage Points at Annual Rate,Quarterly,Seasonally Adjusted Annual Rate,1947-04-01,2026-10-29
 FLNQGSP,Gross Domestic Product: All Industry Total in Florida,Millions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2005-01-01,2026-09-30
 NC000334Q,Gross Domestic Product,Index 2017=100,Quarterly,Not Seasonally Adjusted,2002-01-01,2026-10-29
-NGDPRSAXDCDEQ,Real Gross Domestic Product (GDP) for Germany,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-09-14
-NGDPSAXDCFRQ,Nominal Gross Domestic Product (GDP) for France,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-09-14
+NGDPRSAXDCDEQ,Real Gross Domestic Product (GDP) for Germany,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1991-01-01,2026-11-09
+NGDPSAXDCFRQ,Nominal Gross Domestic Product (GDP) for France,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1980-01-01,2026-11-09
 VAPGDPI,Value Added by Industry: Information as a Percentage of GDP,Percent,Quarterly,Not Seasonally Adjusted,2005-01-01,2026-09-30
 NGDPRSAXDCJPQ,Real Gross Domestic Product (GDP) for Japan,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1994-01-01,2026-09-07
 NGDPSAXDCGBQ,Nominal Gross Domestic Product (GDP) for United Kingdom,Millions of Domestic Currency,Quarterly,Seasonally Adjusted,1955-01-01,2026-09-07

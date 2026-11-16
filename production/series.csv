@@ -57,7 +57,7 @@ IPDMAN,Industrial Production: Durable Manufacturing (NAICS),Index 2017=100,Month
 IPG326S,Industrial Production: Manufacturing: Nondurable Goods: Plastics and Rubber Products (NAICS = 326),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
 IPGMFN,Industrial Production: Manufacturing (NAICS),Index 2017=100,Monthly,Not Seasonally Adjusted,1972-01-01,2026-10-16
 MNFCTRIMSA,Manufacturers Inventories,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-10-15
-R4248IM163SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alcoholic Beverages Inventories/Sales Ratio",Ratio,Monthly,Seasonally Adjusted,1992-01-01,2026-09-10
+R4248IM163SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alcoholic Beverages Inventories/Sales Ratio",Ratio,Monthly,Seasonally Adjusted,1992-01-01,2026-11-09
 A33ATI,Manufacturers' Total Inventories: Farm Machinery and Equipment Manufacturing,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-11-03
 AMTMTI,Manufacturers' Total Inventories: Total Manufacturing,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-11-03
 DAUPNSA,Domestic Auto Production,Thousands of Units,Monthly,Not Seasonally Adjusted,1993-01-01,2026-11-06
@@ -92,7 +92,7 @@ IPG3273S,Industrial Production: Manufacturing: Durable Goods: Cement and Concret
 AMTMUO,Manufacturers' Unfilled Orders: Total Manufacturing,Millions of Dollars,"Monthly, End of Period",Seasonally Adjusted,1992-01-01,2026-11-03
 INVCMRMT,Real Manufacturing and Trade Inventories,Millions of Chained 2017 Dollars,Monthly,Seasonally Adjusted,1997-01-01,2026-10-29
 IPG3366S,Industrial Production: Manufacturing: Durable Goods: Ship and Boat Building (NAICS = 3366),Index 2017=100,Monthly,Seasonally Adjusted,1972-01-01,2026-10-16
-S4243SM144NCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Notions Sales",Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-09-10
+S4243SM144NCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Apparel, Piece Goods, and Notions Sales",Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-01-01,2026-11-09
 UMDMNO,Manufacturers' New Orders: Durable Goods,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-11-03
 UNXANO,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft,Millions of Dollars,Monthly,Not Seasonally Adjusted,1992-02-01,2026-11-03
 A35BNO,Manufacturers' New Orders: Household Appliance Manufacturing,Millions of Dollars,Monthly,Seasonally Adjusted,1992-02-01,2026-11-03
@@ -111,7 +111,7 @@ IPMAT,Industrial Production: Materials,Index 2017=100,Monthly,Seasonally Adjuste
 N400RC1Q027SBEA,Corporate profits with inventory valuation adjustments: Domestic industries: Nonfinancial: Manufacturing,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,2001-01-01,2026-09-30
 PRS30006041,Manufacturing Sector: Real Sectoral Output for All Workers,Percent Change from Quarter One Year Ago,Quarterly,Seasonally Adjusted,1988-01-01,2026-11-05
 QFR101MFGUSNO,"Quarterly Financial Report: U.S. Corporations: All Manufacturing: Net Sales, Receipts, and Operating Revenues",Millions of Dollars,Quarterly,Not Seasonally Adjusted,2000-10-01,2026-09-08
-S4248SM144SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alcoholic Beverages Sales",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-09-10
+S4248SM144SCEN,"Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Nondurable Goods: Beer, Wine, and Distilled Alcoholic Beverages Sales",Millions of Dollars,Monthly,Seasonally Adjusted,1992-01-01,2026-11-09
 IPNCONGD,Industrial Production: Nondurable Consumer Goods,Index 2017=100,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16
 IPFINAL,Industrial Production: Final Products,Index 2017=100,Monthly,Seasonally Adjusted,1939-01-01,2026-10-16
 IPDMAT,Industrial Production: Durable Goods Materials: Durable Goods Materials,Index 2017=100,Monthly,Seasonally Adjusted,1947-01-01,2026-10-16

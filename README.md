@@ -1,10 +1,10 @@
 # FinzData macro data
 
-[![Series](https://img.shields.io/badge/series-9632-0B1B3F)](https://finzdata.com/datasets)
+[![Series](https://img.shields.io/badge/series-9636-0B1B3F)](https://finzdata.com/datasets)
 [![Point in time](https://img.shields.io/badge/vintages-every%20revision-9DB0CC)](https://finzdata.com/docs)
 [![PyPI](https://img.shields.io/pypi/v/finzdata?label=pip%20install%20finzdata)](https://pypi.org/project/finzdata/)
 
-Free, ready-to-use US and international macroeconomic data: **9,632 series in 24 categories**,
+Free, ready-to-use US and international macroeconomic data: **9,636 series in 25 categories**,
 one folder per category, each loading in one line of pandas. No API key, no sign-up, no scraping.
 
 ```python
@@ -40,6 +40,7 @@ df = pd.read_csv("https://raw.githubusercontent.com/FinzData/macro-data/main/inf
 | Financial Conditions | 39 | [financial-conditions/](financial-conditions/) | [FinzData/macro-financial-conditions](https://huggingface.co/datasets/FinzData/macro-financial-conditions) |
 | Population | 13 | [population/](population/) | [FinzData/macro-population](https://huggingface.co/datasets/FinzData/macro-population) |
 | Recession | 13 | [recession/](recession/) | [FinzData/macro-recession](https://huggingface.co/datasets/FinzData/macro-recession) |
+| Ai Adoption | 4 | [ai-adoption/](ai-adoption/) | [FinzData/macro-ai-adoption](https://huggingface.co/datasets/FinzData/macro-ai-adoption) |
 
 Each folder holds `long.csv` (series_id, date, value), `series.csv` (titles, units, frequency, seasonal adjustment,
 start of full history, last update), `top_series.csv` and a 10-row `sample.csv`.
@@ -80,5 +81,5 @@ U.S. government agencies via FRED and ALFRED (Federal Reserve Bank of St. Louis)
 included; series with third-party copyright are excluded. Packaging and documentation: CC BY 4.0, attribution
 "FinzData". Research data, not investment advice.
 
-**Links:** [Pricing](https://finzdata.com/pricing) · [Python client](https://github.com/FinzData/finzdata-python) ·
-[Strategies built on this data](https://github.com/FinzData/hub-strategies) · [Docs](https://finzdata.com/docs)
+**Links:** [Pricing](https://finzdata.com/pricing) · [Python client](https://github.com/FinzData-com/finzdata-python) ·
+[Strategies built on this data](https://github.com/FinzData-com/hub-strategies) · [Docs](https://finzdata.com/docs)

@@ -3,14 +3,14 @@ WPU054,Producer Price Index by Commodity: Fuels and Related Products and Power: 
 WPS0543,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power,Index 1982=100,Monthly,Seasonally Adjusted,1975-01-01,2026-10-15
 WPU11710252,"Producer Price Index by Commodity: Machinery and Equipment: Porcelain, Steatite, and Other Ceramic Electrical Products",Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-10-15
 W003RC1Q027SBEA,Private fixed investment: Nonresidential: Structures: Power and communication,Billions of Dollars,Quarterly,Seasonally Adjusted Annual Rate,1958-01-01,2026-10-29
-APU010072610,Average Price: Electricity per Kilowatt-Hour in the Northeast Census Region - Urban,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14
+APU010072610,Average Price: Electricity per Kilowatt-Hour in the Northeast Census Region - Urban,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-11-10
 PCU3359313359319,Producer Price Index by Industry: Current-Carrying Wiring Device Manufacturing: Current-Carrying Wire Connectors for Electrical Circuitry,Index Dec 1981=100,Monthly,Not Seasonally Adjusted,1981-12-01,2026-10-15
 WPU10660101,"Producer Price Index by Commodity: Metals and Metal Products: Household Water Heaters, Electric, for Permanent Installation",Index 1982=100,Monthly,Not Seasonally Adjusted,1950-01-01,2026-06-11
 IPG2211N,"Industrial Production: Utilities: Electric Power Generation, Transmission, and Distribution (NAICS = 2211)",Index 2017=100,Monthly,Not Seasonally Adjusted,1972-01-01,2026-10-16
 PCU3359913359910,"Producer Price Index by Industry: Carbon and Graphite Product Manufacturing: Carbon and Graphite Products, Including Electrodes for Electric Arc Furnaces",Index Jun 1985=100,Monthly,Not Seasonally Adjusted,1960-12-01,2026-10-15
 PCU33632033632023,"Producer Price Index by Industry: Motor Vehicle Electrical and Electronic Equipment Manufacturing: Battery Charging Alternators, Generators, and Regulators",Index Dec 1982=100,Monthly,Not Seasonally Adjusted,1982-12-01,2026-10-15
 WPU05432101,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power,Index Dec 1990=100,Monthly,Not Seasonally Adjusted,1991-07-01,2026-10-15
-APU020072610,Average Price: Electricity per Kilowatt-Hour in the Midwest Census Region - Urban,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-10-14
+APU020072610,Average Price: Electricity per Kilowatt-Hour in the Midwest Census Region - Urban,U.S. Dollars,Monthly,Not Seasonally Adjusted,1978-11-01,2026-11-10
 PCU333415333415C,"Producer Price Index by Industry: Air-Conditioning, Refrigeration, and Forced Air Heating Equipment Manufacturing: Warm Air Furnaces, Including Duct Furnaces and Humidifiers, and Electric Comfort Heating",Index Dec 1989=100,Monthly,Not Seasonally Adjusted,1989-12-01,2026-10-15
 PCU3339943339940,"Producer Price Index by Industry: Industrial Process Furnace and Oven Manufacturing: Industrial Process Furnaces and Ovens, and Industrial Electrical Heating Equipment",Index Dec 2004=100,Monthly,Not Seasonally Adjusted,2004-12-01,2026-10-15
 WPU0542,Producer Price Index by Commodity: Fuels and Related Products and Power: Commercial Electric Power,Index 1982=100,Monthly,Not Seasonally Adjusted,1958-01-01,2026-10-15
@@ -35,8 +35,8 @@ PCU3334153334152,"Producer Price Index by Industry: Air-Conditioning, Refrigerat
 PCU335110335110P,"Producer Price Index by Industry: Other Lighting Equipment, Including Lamps and Bulbs Manufacturing: Electric Lamp Bulb, Tubes, and Components",Index Dec 1983=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-10-15
 PCU3363203363202A,Producer Price Index by Industry: Motor Vehicle Electrical and Electronic Equipment Manufacturing: Parts for Engine Electrical and Electronic Equipment,Index Dec 1982=100,Monthly,Not Seasonally Adjusted,1982-12-01,2026-09-10
 WPS054321,Producer Price Index by Commodity: Fuels and Related Products and Power: Industrial Electric Power,Index Dec 1990=100,Monthly,Seasonally Adjusted,1990-12-01,2026-10-15
-APUN00072610,Average Price: Electricity per Kilowatt-Hour in Size Class B/C,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-10-14
-APUS00072610,Average Price: Electricity per Kilowatt-Hour in Size Class A,U.S. Dollars,Monthly,Not Seasonally Adjusted,1987-01-01,2026-10-14
+APUN00072610,Average Price: Electricity per Kilowatt-Hour in Size Class B/C,U.S. Dollars,Monthly,Not Seasonally Adjusted,1998-01-01,2026-11-10
+APUS00072610,Average Price: Electricity per Kilowatt-Hour in Size Class A,U.S. Dollars,Monthly,Not Seasonally Adjusted,1987-01-01,2026-11-10
 COCHNZ3351,Import Price Index by Origin (NAICS): Electric Lighting Equipment Manufacturing for China,Index Jun 2012=100,Monthly,Not Seasonally Adjusted,2012-06-01,2026-10-16
 CUUR0100SEHF01,Consumer Price Index for All Urban Consumers: Electricity in Northeast,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1977-12-01,2026-09-11
 CUUR0400SEHF01,Consumer Price Index for All Urban Consumers: Electricity in West,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1977-12-01,2026-09-11
