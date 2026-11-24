@@ -1,16 +1,15 @@
 id,title,units,frequency,seasonal_adjustment,full_history_from,last_updated
 CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1947-01-01,2026-11-10
-DFII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-13
-T10YIE,10-Year Breakeven Inflation Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-13
-T5YIE,5-Year Breakeven Inflation Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-13
+DFII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-23
+T10YIE,10-Year Breakeven Inflation Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-20
 PCEPI,Personal Consumption Expenditures: Chain-type Price Index,Index 2017=100,Monthly,Seasonally Adjusted,1959-01-01,2026-10-29
 CPILFESL,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1957-01-01,2026-11-10
-T5YIFR,"5-Year, 5-Year Forward Inflation Expectation Rate",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-13
+T5YIE,5-Year Breakeven Inflation Rate,Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-20
+T5YIFR,"5-Year, 5-Year Forward Inflation Expectation Rate",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-20
 CORESTICKM159SFRBATL,Sticky Price Consumer Price Index less Food and Energy,Percent Change from Year Ago,Monthly,Seasonally Adjusted,1967-12-01,2026-11-10
 CPIAUCNS,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1913-01-01,2026-11-10
 PPIACO,Producer Price Index by Commodity: All Commodities,Index 1982=100,Monthly,Not Seasonally Adjusted,1913-01-01,2026-11-13
-DFII5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-13
-DFII30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2010-02-22,2026-11-13
+DFII5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-23
 CUUR0000SA0R,Consumer Price Index for All Urban Consumers: Purchasing Power of the Consumer Dollar in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1913-01-01,2026-11-10
 CPIMEDNS,Consumer Price Index for All Urban Consumers: Medical Care in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1935-03-01,2026-11-10
 CUSR0000SETA02,Consumer Price Index for All Urban Consumers: Used Cars and Trucks in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1953-01-01,2026-11-10
@@ -18,6 +17,7 @@ GDPDEF,Gross Domestic Product: Implicit Price Deflator,Index 2017=100,Quarterly,
 PCU325211325211,Producer Price Index by Industry: Plastics Material and Resin Manufacturing,Index Dec 1980=100,Monthly,Not Seasonally Adjusted,1976-06-01,2026-11-13
 USSTHPI,All-Transactions House Price Index for the United States,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 WPUSI012011,Producer Price Index by Commodity: Special Indexes: Construction Materials,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-11-13
+DFII30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2010-02-22,2026-11-23
 EXPINF1YR,1-Year Expected Inflation,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-11-10
 MEDCPIM158SFRBCLE,Median Consumer Price Index,Percent Change at Annual Rate,Monthly,Seasonally Adjusted,1983-01-01,2026-11-10
 PCUOMFGOMFG,Producer Price Index by Industry: Total Manufacturing Industries,Index Dec 1984=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-13
@@ -30,7 +30,6 @@ CUUR0000SEHA,Consumer Price Index for All Urban Consumers: Rent of Primary Resid
 PCU33443344,Producer Price Index by Industry: Semiconductor and Other Electronic Component Manufacturing,Index Dec 1984=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-13
 T30YIEM,30-year Breakeven Inflation Rate,Percent,Monthly,Not Seasonally Adjusted,2010-02-01,2026-11-02
 CPIMEDSL,Consumer Price Index for All Urban Consumers: Medical Care in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1947-01-01,2026-11-10
-DFII20,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2004-07-27,2026-11-13
 EXPINF2YR,2-Year Expected Inflation,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-11-10
 PPIFIS,Producer Price Index by Commodity: Final Demand,Index Nov 2009=100,Monthly,Seasonally Adjusted,2009-11-01,2026-11-13
 CUSR0000SEEB,"Consumer Price Index for All Urban Consumers: Tuition, Other School Fees, and Childcare in U.S. City Average",Index 1982-1984=100,Monthly,Seasonally Adjusted,1978-01-01,2026-11-10
@@ -41,6 +40,7 @@ WPU10170674,"Producer Price Index by Commodity: Metals and Metal Products: Steel
 CUSR0000SEHA,Consumer Price Index for All Urban Consumers: Rent of Primary Residence in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1981-01-01,2026-11-10
 CUSR0000SETG01,Consumer Price Index for All Urban Consumers: Airline Fares in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1989-01-01,2026-11-10
 CUUR0000SETA01,Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1947-03-01,2026-11-10
+DFII20,"Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2004-07-27,2026-11-23
 WPU081,Producer Price Index by Commodity: Lumber and Wood Products: Lumber,Index 1982=100,Monthly,Not Seasonally Adjusted,1926-01-01,2026-11-13
 CUSR0000SAH1,Consumer Price Index for All Urban Consumers: Shelter in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1953-01-01,2026-11-10
 CWUR0000SA0,Consumer Price Index for All Urban Wage Earners and Clerical Workers: All Items in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1913-01-01,2026-11-10
@@ -58,7 +58,7 @@ PCU3364133641,Producer Price Index by Industry: Aerospace Product and Parts Manu
 WPU091405,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Paperboard in Sheets and Rolls, Lined and Unlined",Index 1982=100,Monthly,Not Seasonally Adjusted,1980-06-01,2026-11-13
 ATNHPIUS12420Q,"All-Transactions House Price Index for Austin-Round Rock-Georgetown, TX (MSA)",Index 1995:Q1=100,Quarterly,Not Seasonally Adjusted,1977-04-01,2026-08-25
 FII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Monthly,Not Seasonally Adjusted,2003-01-01,2026-11-02
-IR,Import Price Index (End Use): All Commodities,Index 2000=100,Monthly,Not Seasonally Adjusted,1982-09-01,2026-10-16
+IR,Import Price Index (End Use): All Commodities,Index 2000=100,Monthly,Not Seasonally Adjusted,1982-09-01,2026-11-17
 PCU325311325311,Producer Price Index by Industry: Nitrogenous Fertilizer Manufacturing,Index Dec 1979=100,Monthly,Not Seasonally Adjusted,1975-12-01,2026-11-13
 PCU335311335311P,Producer Price Index by Industry: Electric Power and Specialty Transformer Manufacturing: Primary Products,Index Jun 1981=100,Monthly,Not Seasonally Adjusted,1981-06-01,2026-11-13
 PCU3353133531,Producer Price Index by Industry: Electrical Equipment Manufacturing,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
@@ -77,18 +77,18 @@ BOGZ1FL075035503Q,"Interest Rates and Price Indexes; Commercial Real Estate Pric
 CPIAPPSL,Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1947-01-01,2026-11-10
 CPILFENS,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1957-01-01,2026-11-10
 CUSR0000SETD,Consumer Price Index for All Urban Consumers: Motor Vehicle Maintenance and Repair in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1967-01-01,2026-11-10
-IQ12260,Export Price Index (End Use): Nonmonetary Gold,Index Dec 2024=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-10-16
+IQ12260,Export Price Index (End Use): Nonmonetary Gold,Index Dec 2024=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-17
 CPIUFDNS,Consumer Price Index for All Urban Consumers: Food in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1913-01-01,2026-11-10
 CUSR0000SEFV,Consumer Price Index for All Urban Consumers: Food Away from Home in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1953-01-01,2026-11-10
 CUSR0000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1952-01-01,2026-11-10
 CUSR0000SETB01,Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1967-01-01,2026-11-10
-DLTIIT,"Treasury Long-Term Average (Over 10 Years), Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2000-01-03,2026-11-13
 WPU102505,Producer Price Index by Commodity: Metals and Metal Products: Titanium and Titanium-Base Alloy Mill Shapes,Index 1982=100,Monthly,Not Seasonally Adjusted,1971-01-01,2026-11-13
 WPU801,Producer Price Index by Commodity: Construction (Partial): New Nonresidential Building Construction,Index Jun 2009=100,Monthly,Not Seasonally Adjusted,2009-06-01,2026-11-13
 WPUSI019011,Producer Price Index by Commodity: Special Indexes: Copper and Copper Products,Index 1982=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-11-13
 PCU44414441,Producer Price Index by Industry: Building Material and Supplies Dealers,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
 CUSR0000SEHG,Consumer Price Index for All Urban Consumers: Water and Sewer and Trash Collection Services in U.S. City Average,Index Dec 1997=100,Monthly,Seasonally Adjusted,1997-12-01,2026-11-10
 CUUR0000SA0L2,Consumer Price Index for All Urban Consumers: All Items Less Shelter in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1935-03-01,2026-11-10
+DLTIIT,"Treasury Long-Term Average (Over 10 Years), Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2000-01-03,2026-11-23
 PCU484484,Producer Price Index by Industry: Truck Transportation,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
 T20YIEM,20-year Breakeven Inflation Rate,Percent,Monthly,Not Seasonally Adjusted,2004-07-01,2026-11-02
 WPU01190102,Producer Price Index by Commodity: Farm Products: Almonds,Index Dec 1991=100,Monthly,Not Seasonally Adjusted,1991-12-01,2026-11-13
@@ -107,7 +107,6 @@ WPU083,Producer Price Index by Commodity: Lumber and Wood Products: Plywood,Inde
 WPUFD49207,Producer Price Index by Commodity: Final Demand: Finished Goods,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-11-13
 CUUR0000SEFV,Consumer Price Index for All Urban Consumers: Food Away from Home in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1953-01-01,2026-11-10
 CUUR0000SETB01,Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1935-03-01,2026-11-10
-DFII7,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-13
 NJSTHPI,All-Transactions House Price Index for New Jersey,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 PCU33323332,Producer Price Index by Industry: Industrial Machinery Manufacturing,Index Dec 1984=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-13
 T10YIEM,10-Year Breakeven Inflation Rate,Percent,Monthly,Not Seasonally Adjusted,2003-01-01,2026-11-02
@@ -136,6 +135,7 @@ WPU0811,Producer Price Index by Commodity: Lumber and Wood Products: Softwood Lu
 WPU10250162,"Producer Price Index by Commodity: Metals and Metal Products: Extruded Aluminum Shapes, Including Rod, Bar, and Wire",Index Dec 2004=100,Monthly,Not Seasonally Adjusted,2004-12-01,2026-11-13
 ATNHPIUS41884Q,"All-Transactions House Price Index for San Francisco-San Mateo-Redwood City, CA (MSAD)",Index 1995:Q1=100,Quarterly,Not Seasonally Adjusted,1975-04-01,2026-08-25
 CUURA101SA0,"Consumer Price Index for All Urban Consumers: All Items in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1914-12-01,2026-10-14
+DFII7,"Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Daily,Not Seasonally Adjusted,2003-01-02,2026-11-23
 PCU32543254,Producer Price Index by Industry: Pharmaceutical and Medicine Manufacturing,Index Dec 1984=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-13
 PCU33123312,Producer Price Index by Industry: Steel Product Manufacturing from Purchased Steel,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
 PCU3331313331319,Producer Price Index by Industry: Mining Machinery and Equipment Manufacturing: Parts and Attachments for Mining Machinery and Equipment (Sold Separately),Index Jun 1981=100,Monthly,Not Seasonally Adjusted,1981-06-01,2026-11-13
@@ -177,10 +177,11 @@ WPU551,Producer Price Index by Commodity: Repair and Maintenance Services (Parti
 CUSR0000SACL1E,Consumer Price Index for All Urban Consumers: Commodities Less Food and Energy Commodities in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,1957-01-01,2026-11-10
 CUSR0000SEEE,"Consumer Price Index for All Urban Consumers: Information Technology, Hardware and Services in U.S. City Average",Index Dec 2024=100,Monthly,Seasonally Adjusted,2006-01-01,2026-11-10
 CUUR0000SETG01,Consumer Price Index for All Urban Consumers: Airline Fares in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1963-12-01,2026-11-10
-IQ,Export Price Index (End Use): All Commodities,Index 2000=100,Monthly,Not Seasonally Adjusted,1983-09-01,2026-10-16
+IQ,Export Price Index (End Use): All Commodities,Index 2000=100,Monthly,Not Seasonally Adjusted,1983-09-01,2026-11-17
 PCU3252113252111,Producer Price Index by Industry: Plastics Material and Resin Manufacturing: Thermoplastic Resins and Plastics Materials,Index Dec 1980=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-11-13
 PCU332911332911,Producer Price Index by Industry: Industrial Valve Manufacturing,Index Jun 1991=100,Monthly,Not Seasonally Adjusted,1991-06-01,2026-11-13
 PCU3344133441,Producer Price Index by Industry: Semiconductor and Other Electronic Component Manufacturing,Index Dec 1984=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-13
+WFII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,2003-01-03,2026-11-23
 WPS101,Producer Price Index by Commodity: Metals and Metal Products: Iron and Steel,Index 1982=100,Monthly,Seasonally Adjusted,1967-01-01,2026-11-13
 WPU01110205,Producer Price Index by Commodity: Farm Products: Avocados,Index Dec 1991=100,Monthly,Not Seasonally Adjusted,1991-12-01,2026-11-13
 WPU03T15M05,Producer Price Index by Commodity: Industrial Commodities Less Fuels,Index 1982=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-11-13
@@ -211,7 +212,6 @@ GDPCTPI,Gross Domestic Product: Chain-type Price Index,Index 2017=100,Quarterly,
 PCU333131333131,Producer Price Index by Industry: Mining Machinery and Equipment Manufacturing,Index Jun 1981=100,Monthly,Not Seasonally Adjusted,1972-12-01,2026-11-13
 PCU334413334413,Producer Price Index by Industry: Semiconductor and Related Device Manufacturing,Index Dec 1998=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-11-13
 TENEXPCHAINFRISPRE,Inflation Risk Premium,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-11-10
-WFII10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,2003-01-03,2026-11-09
 WPS081,Producer Price Index by Commodity: Lumber and Wood Products: Lumber,Index 1982=100,Monthly,Seasonally Adjusted,1967-01-01,2026-11-13
 WPU0121,Producer Price Index by Commodity: Farm Products: Wheat,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-11-13
 WPU057303,Producer Price Index by Commodity: Fuels and Related Products and Power: No. 2 Diesel Fuel,Index 1982=100,Monthly,Not Seasonally Adjusted,1973-02-01,2026-11-13
@@ -252,7 +252,7 @@ WPU102502,Producer Price Index by Commodity: Metals and Metal Products: Copper a
 WPU3012,Producer Price Index by Commodity: Transportation Services: Truck Transportation of Freight,Index Jun 2009=100,Monthly,Not Seasonally Adjusted,2009-06-01,2026-11-13
 CUSR0000SEFP01,Consumer Price Index for All Urban Consumers: Coffee in U.S. City Average,Index 1982-1984=100,Monthly,Seasonally Adjusted,2003-01-01,2026-11-10
 CUUR0000SETD,Consumer Price Index for All Urban Consumers: Motor Vehicle Maintenance and Repair in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1947-03-01,2026-11-10
-IC131,Inbound Price Index (International Services): Air Freight,Index 2000=100,Monthly,Not Seasonally Adjusted,1990-09-01,2026-10-16
+IC131,Inbound Price Index (International Services): Air Freight,Index 2000=100,Monthly,Not Seasonally Adjusted,1990-09-01,2026-11-17
 PCU336411336411,Producer Price Index by Industry: Aircraft Manufacturing,Index Dec 1985=100,Monthly,Not Seasonally Adjusted,1985-12-01,2026-11-13
 PCU336412336412,Producer Price Index by Industry: Aircraft Engine and Engine Parts Manufacturing,Index Dec 1985=100,Monthly,Not Seasonally Adjusted,1985-12-01,2026-11-13
 PCU721110721110,"Producer Price Index by Industry: Hotels and Motels, Except Casino Hotels",Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
@@ -266,9 +266,9 @@ CUSR0000SEMD,Consumer Price Index for All Urban Consumers: Hospital and Related 
 CUSR0000SETA,Consumer Price Index for All Urban Consumers: New and Used Motor Vehicles in U.S. City Average,Index Dec 1997=100,Monthly,Seasonally Adjusted,1993-01-01,2026-11-10
 CUUR0000SEHG,Consumer Price Index for All Urban Consumers: Water and Sewer and Trash Collection Services in U.S. City Average,Index Dec 1997=100,Monthly,Not Seasonally Adjusted,1997-12-01,2026-11-10
 CUUS0000SA0,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,Index 1982-1984=100,Semiannual,Not Seasonally Adjusted,1984-01-01,2026-07-14
-IR14200,Import Price Index (End Use): Bauxite and Aluminum,Index 2000=100,Monthly,Not Seasonally Adjusted,1986-09-01,2026-10-16
-IR14270,Import Price Index (End Use): Nonmonetary Gold,Index Dec 2024=100,Monthly,Not Seasonally Adjusted,1992-12-01,2026-10-16
-IZ3344,Import Price Index (NAICS): Semiconductor and Other Electronic Component Manufacturing,Index Dec 2005=100,Monthly,Not Seasonally Adjusted,2005-12-01,2026-10-16
+IR14200,Import Price Index (End Use): Bauxite and Aluminum,Index 2000=100,Monthly,Not Seasonally Adjusted,1986-09-01,2026-11-17
+IR14270,Import Price Index (End Use): Nonmonetary Gold,Index Dec 2024=100,Monthly,Not Seasonally Adjusted,1992-12-01,2026-11-17
+IZ3344,Import Price Index (NAICS): Semiconductor and Other Electronic Component Manufacturing,Index Dec 2005=100,Monthly,Not Seasonally Adjusted,2005-12-01,2026-11-17
 MEDCPIM159SFRBCLE,Median Consumer Price Index,Percent Change from Year Ago,Monthly,Seasonally Adjusted,1983-12-01,2026-11-10
 PCU325120325120,Producer Price Index by Industry: Industrial Gas Manufacturing,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
 PCU3253132531,Producer Price Index by Industry: Fertilizer Manufacturing,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
@@ -299,7 +299,7 @@ WPU0812,Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Lu
 WPU09141105,"Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Recycled Paperboard",Index Dec 1982=100,Monthly,Not Seasonally Adjusted,1982-12-01,2026-11-13
 WPU1178,Producer Price Index by Commodity: Machinery and Equipment: Electronic Components and Accessories,Index 1982=100,Monthly,Not Seasonally Adjusted,1965-12-01,2026-11-13
 ATNHPIUS37964Q,"All-Transactions House Price Index for Philadelphia, PA (MSAD)",Index 1995:Q1=100,Quarterly,Not Seasonally Adjusted,1976-01-01,2026-08-25
-CHNTOT,Import Price Index by Origin (NAICS): All Industries for China,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-10-16
+CHNTOT,Import Price Index by Origin (NAICS): All Industries for China,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-17
 CUUR0000SETA02,Consumer Price Index for All Urban Consumers: Used Cars and Trucks in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1952-12-01,2026-11-10
 GNPDEF,Gross National Product: Implicit Price Deflator,Index 2017=100,Quarterly,Seasonally Adjusted,1947-01-01,2026-09-30
 PCU324110324110J,Producer Price Index by Industry: Petroleum Refineries: Unfinished Oils and Lubricating Oil Base Stock,Index Jun 1985=100,Monthly,Not Seasonally Adjusted,1985-06-01,2026-11-13
@@ -342,7 +342,7 @@ ATNHPIUS38900Q,"All-Transactions House Price Index for Portland-Vancouver-Hillsb
 ATNHPIUS41620Q,"All-Transactions House Price Index for Salt Lake City, UT (MSA)",Index 1995:Q1=100,Quarterly,Not Seasonally Adjusted,1977-01-01,2026-08-25
 CUUR0400SA0,Consumer Price Index for All Urban Consumers: All Items in West,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1966-12-01,2026-10-14
 CUURA207SA0,"Consumer Price Index for All Urban Consumers: All Items in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)",Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1914-12-01,2026-10-14
-IR42100,Import Price Index (End Use): Gem Diamonds,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-10-16
+IR42100,Import Price Index (End Use): Gem Diamonds,Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-11-17
 PCU23822X23822X,"Producer Price Index by Industry: Plumbing, Heating and Air-Conditioning Contractors, Nonresidential Building Work",Index Dec 2007=100,Monthly,Not Seasonally Adjusted,2007-12-01,2026-11-13
 PCU3219203219205,"Producer Price Index by Industry: Wood Container and Pallet Manufacturing: Wood Pallets and Pallet Containers, Wood and Metal Combination",Index Dec 2003=100,Monthly,Not Seasonally Adjusted,1985-06-01,2026-11-13
 PCU3241232412,Producer Price Index by Industry: Asphalt Paving and Roofing Materials Manufacturing,Index Dec 1984=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-13
@@ -356,7 +356,7 @@ WPU0711,"Producer Price Index by Commodity: Rubber and Plastic Products: Synthet
 WPU08120401,Producer Price Index by Commodity: Lumber and Wood Products: Oak and Maple Hardwood Flooring,Index Jun 1984=100,Monthly,Not Seasonally Adjusted,1984-06-01,2026-11-13
 WPU101212,Producer Price Index by Commodity: Metals and Metal Products: Stainless and Other Alloy Steel Scrap,Index Dec 1986=100,Monthly,Not Seasonally Adjusted,1986-12-01,2026-11-13
 WPU1175,"Producer Price Index by Commodity: Machinery and Equipment: Switchgear, Switchboard, Industrial Controls Equipment",Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-11-13
-COINDUSZ3344,Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Industrialized Countries,Index Jun 2012=100,Monthly,Not Seasonally Adjusted,2012-06-01,2026-10-16
+COINDUSZ3344,Import Price Index by Origin (NAICS): Semiconductor and Other Electronic Component Manufacturing for Industrialized Countries,Index Jun 2012=100,Monthly,Not Seasonally Adjusted,2012-06-01,2026-11-17
 CUURA000SA0,Consumer Price Index for All Urban Consumers: All Items in Size Class A,Index Dec 1986=100,Monthly,Not Seasonally Adjusted,1986-12-01,2026-10-14
 PCU221122221122,Producer Price Index by Industry: Electric Power Distribution,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
 PCU221221,Producer Price Index by Industry: Utilities,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
@@ -415,7 +415,7 @@ CUSR0000SEHC01,Consumer Price Index for All Urban Consumers: Owners' Equivalent 
 CUUR0000SAH1,Consumer Price Index for All Urban Consumers: Shelter in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1952-12-01,2026-11-10
 CUUR0000SASL2RS,Consumer Price Index for All Urban Consumers: Services Less Rent of Shelter in U.S. City Average,Index Dec 1982=100,Monthly,Not Seasonally Adjusted,1982-12-01,2026-11-10
 CUUR0100SA0,Consumer Price Index for All Urban Consumers: All Items in Northeast,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1966-12-01,2026-10-14
-IREXPET,Import Price Index (End Use): All Imports Excluding Petroleum,Index 2000=100,Monthly,Not Seasonally Adjusted,1985-03-01,2026-10-16
+IREXPET,Import Price Index (End Use): All Imports Excluding Petroleum,Index 2000=100,Monthly,Not Seasonally Adjusted,1985-03-01,2026-11-17
 MNSTHPI,All-Transactions House Price Index for Minnesota,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 PCU325130325130,Producer Price Index by Industry: Synthetic Dye and Pigment Manufacturing,Index Dec 2011=100,Monthly,Not Seasonally Adjusted,2011-12-01,2026-11-13
 PCU325312325312A,"Producer Price Index by Industry: Phosphatic Fertilizer Manufacturing: Phosphoric Acid, Superphosphates, and Other Phosphatic Fertilizer Materials",Index Dec 2009=100,Monthly,Not Seasonally Adjusted,2009-12-01,2026-11-13
@@ -458,6 +458,7 @@ PCU332410332410,Producer Price Index by Industry: Power Boiler and Heat Exchange
 PCU33423342,Producer Price Index by Industry: Communications Equipment Manufacturing,Index Dec 1985=100,Monthly,Not Seasonally Adjusted,1985-12-01,2026-11-13
 PCU3359233592,Producer Price Index by Industry: Communication and Energy Wire and Cable Manufacturing,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
 PPIENG,Producer Price Index by Commodity: Fuels and Related Products and Power,Index 1982=100,Monthly,Not Seasonally Adjusted,1926-01-01,2026-11-13
+WFII5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,2003-01-03,2026-11-23
 WPU01190101,Producer Price Index by Commodity: Farm Products: Pecans,Index 1982=100,Monthly,Not Seasonally Adjusted,1967-11-01,2026-11-13
 WPU01810101,Producer Price Index by Commodity: Farm Products: Alfalfa Hay,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-11-13
 WPU01830171,Producer Price Index by Commodity: Farm Products: Canola,Index Dec 2011=100,Monthly,Not Seasonally Adjusted,2011-12-01,2026-11-13
@@ -549,7 +550,7 @@ CUURA423SEHA,Consumer Price Index for All Urban Consumers: Rent of Primary Resid
 DCSTHPI,All-Transactions House Price Index for the District of Columbia,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 EXPINF15YR,15-Year Expected Inflation,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-11-10
 FLEXCPIM679SFRBATL,Flexible Price Consumer Price Index,3-Month Annualized Percent Change,Monthly,Seasonally Adjusted,1967-03-01,2026-11-10
-IP7102,"Import Price Index (Harmonized System): Diamonds, Whether or Not Worked, but Not Mounted or Set",Index 2000=100,Monthly,Not Seasonally Adjusted,1992-12-01,2026-10-16
+IP7102,"Import Price Index (Harmonized System): Diamonds, Whether or Not Worked, but Not Mounted or Set",Index 2000=100,Monthly,Not Seasonally Adjusted,1992-12-01,2026-11-17
 PCU324191324191011,"Producer Price Index by Industry: Petroleum Lubricating Oil and Grease Manufacturing: Lubricating Oils (Including Hydraulic Fluids, etc.), Refined Petroleum",Index Dec 1980=100,Monthly,Not Seasonally Adjusted,1980-12-01,2026-11-13
 PCU3251132511,Producer Price Index by Industry: Petrochemical Manufacturing,Index Dec 2003=100,Monthly,Not Seasonally Adjusted,2003-12-01,2026-11-13
 PCU3271132711,"Producer Price Index by Industry: Pottery, Ceramics, and Plumbing Fixture Manufacturing",Index Dec 1984=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-13
@@ -582,7 +583,7 @@ CUUR0000SS61031,Consumer Price Index for All Urban Consumers: Pet Food and Treat
 CUURA423SA0,Consumer Price Index for All Urban Consumers: All Items in Seattle-Tacoma-Bellevue WA (CBSA),Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1914-12-01,2026-09-11
 EXPINF25YR,25-Year Expected Inflation,Percent,Monthly,Not Seasonally Adjusted,1982-01-01,2026-11-10
 FII30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,Monthly,Not Seasonally Adjusted,2010-02-01,2026-11-02
-ID3901,"Export Price Index (Harmonized System): Polymers of Ethylene, in Primary Forms",Index Jan 2025=100,Monthly,Not Seasonally Adjusted,1992-12-01,2026-10-16
+ID3901,"Export Price Index (Harmonized System): Polymers of Ethylene, in Primary Forms",Index Jan 2025=100,Monthly,Not Seasonally Adjusted,1992-12-01,2026-11-17
 NCSTHPI,All-Transactions House Price Index for North Carolina,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 NHSTHPI,All-Transactions House Price Index for New Hampshire,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 PCU212312212312,Producer Price Index by Industry: Crushed and Broken Limestone Mining,Index Dec 1983=100,Monthly,Not Seasonally Adjusted,1983-12-01,2026-11-13
@@ -628,8 +629,8 @@ CUUR0000SEHF01,Consumer Price Index for All Urban Consumers: Electricity in U.S.
 CUURA316SA0,"Consumer Price Index for All Urban Consumers: All Items in Dallas-Fort Worth-Arlington, TX (CBSA)",Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1963-11-01,2026-10-14
 CUURA320SEHA,"Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)",Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1977-11-01,2026-10-14
 INSTHPI,All-Transactions House Price Index for Indiana,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
-IREXFDFLS,Import Price Index (End Use): All Imports Excluding Food and Fuels,Index Dec 2010=100,Monthly,Not Seasonally Adjusted,2010-12-01,2026-10-16
-IS231,Outbound Price Index (International Services): Air Freight,Index 2000=100,Monthly,Not Seasonally Adjusted,1992-09-01,2026-10-16
+IREXFDFLS,Import Price Index (End Use): All Imports Excluding Food and Fuels,Index Dec 2010=100,Monthly,Not Seasonally Adjusted,2010-12-01,2026-11-17
+IS231,Outbound Price Index (International Services): Air Freight,Index 2000=100,Monthly,Not Seasonally Adjusted,1992-09-01,2026-11-17
 MDSTHPI,All-Transactions House Price Index for Maryland,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 PASTHPI,All-Transactions House Price Index for Pennsylvania,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 PCU3119203119201,Producer Price Index by Industry: Coffee and Tea Manufacturing: Roasted Coffee,Index Jun 1981=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-11-13
@@ -697,7 +698,6 @@ PCU486110486110,Producer Price Index by Industry: Pipeline Transportation of Cru
 PPIDES,Producer Price Index by Commodity: Final Demand: Final Demand Energy,Index Nov 2009=100,Monthly,Seasonally Adjusted,2009-11-01,2026-11-13
 PPIFDC,Producer Price Index by Commodity: Final Demand: Final Demand Construction,Index Nov 2009=100,Monthly,Not Seasonally Adjusted,2009-11-01,2026-11-13
 TNSTHPI,All-Transactions House Price Index for Tennessee,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
-WFII5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,2003-01-03,2026-11-09
 WPS117,Producer Price Index by Commodity: Machinery and Equipment: Electrical Machinery and Equipment,Index 1982=100,Monthly,Seasonally Adjusted,1982-01-01,2026-11-13
 WPSID61,Producer Price Index by Commodity: Intermediate Demand by Commodity Type: Processed Goods for Intermediate Demand,Index 1982=100,Monthly,Seasonally Adjusted,1947-04-01,2026-11-13
 WPU011,"Producer Price Index by Commodity: Farm Products: Fruits and Melons, Fresh/Dry Vegetables and Nuts",Index 1982=100,Monthly,Not Seasonally Adjusted,1926-01-01,2026-11-13
@@ -725,7 +725,7 @@ CUSR0000SEEA,Consumer Price Index for All Urban Consumers: Educational Books and
 CUUR0000SEGB02,"Consumer Price Index for All Urban Consumers: Cosmetics, Perfume, Bath, Nail Preparations and Implements in U.S. City Average",Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1977-12-01,2026-11-10
 CUURA316SEHA,"Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Dallas-Fort Worth-Arlington, TX (CBSA)",Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1963-11-01,2026-10-14
 HPIPONM226N,Purchase Only House Price Index for the United States,Index Jan 1991=100,Monthly,Not Seasonally Adjusted,1991-01-01,2026-10-27
-IR21320,Import Price Index (End Use): Semiconductors,Index 2000=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-10-16
+IR21320,Import Price Index (End Use): Semiconductors,Index 2000=100,Monthly,Not Seasonally Adjusted,1984-12-01,2026-11-17
 MEDCPIM094SFRBCLE,Median Consumer Price Index,Index Dec 1982=100,Monthly,Seasonally Adjusted,1982-12-01,2026-11-10
 MESTHPI,All-Transactions House Price Index for Maine,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 PCU213111213111P,Producer Price Index by Industry: Drilling Oil and Gas Wells: Primary Services,Index Dec 1985=100,Monthly,Not Seasonally Adjusted,1985-12-01,2026-11-13
@@ -743,7 +743,6 @@ PCU4931204931202,Producer Price Index by Industry: Refrigerated Warehousing and 
 PCU5241265241261,Producer Price Index by Industry: Direct Property and Casualty Insurers: Private Passenger Auto Insurance,Index Jun 1998=100,Monthly,Not Seasonally Adjusted,1998-06-01,2026-11-13
 PCU541330541330,Producer Price Index by Industry: Engineering Services,Index Dec 1996=100,Monthly,Not Seasonally Adjusted,1996-12-01,2026-11-13
 PCU8113108113107,Producer Price Index by Industry: Commercial Machinery Repair and Maintenance: Maintenance and Repair Services for Industrial Machinery,Index Dec 2013=100,Monthly,Not Seasonally Adjusted,2013-12-01,2026-11-13
-WFII30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,2010-02-26,2026-11-09
 WPU01110222,Producer Price Index by Commodity: Farm Products: Strawberries,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-11-13
 WPU0571,Producer Price Index by Commodity: Fuels and Related Products and Power: Gasoline,Index 1982=100,Monthly,Not Seasonally Adjusted,1947-01-01,2026-11-13
 WPU057203,Producer Price Index by Commodity: Fuels and Related Products and Power: Jet Fuel,Index 1982=100,Monthly,Not Seasonally Adjusted,1975-01-01,2026-11-13
@@ -810,8 +809,8 @@ WPU45610101,Producer Price Index by Commodity: Professional Services (Partial): 
 WPUFD432,Producer Price Index by Commodity: Final Demand: Construction for Government,Index Nov 2009=100,Monthly,Not Seasonally Adjusted,2009-11-01,2026-11-13
 WPUIP231100,"Producer Price Index by Commodity: Inputs to Industries: Net Inputs to New Residential Construction, Excluding Capital Investment, Labor, and Imports",Index Dec 2014=100,Monthly,Not Seasonally Adjusted,2014-12-01,2026-11-13
 WPUIP2312001,"Producer Price Index by Commodity: Inputs to Industries: Net Inputs to Nonresidential Construction, Goods",Index Jun 2010=100,Monthly,Not Seasonally Adjusted,2010-06-01,2026-11-13
-WSHOICL,Assets: Securities Held Outright: U.S. Treasury Securities: Inflation Compensation: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-11-12
-WSHONBIIL,"Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds, Inflation-Indexed: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-11-12
+WSHOICL,Assets: Securities Held Outright: U.S. Treasury Securities: Inflation Compensation: Wednesday Level,Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-11-19
+WSHONBIIL,"Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds, Inflation-Indexed: Wednesday Level",Millions of U.S. Dollars,"Weekly, As of Wednesday",Not Seasonally Adjusted,2002-12-18,2026-11-19
 ATNHPIUS28940Q,"All-Transactions House Price Index for Knoxville, TN (MSA)",Index 1995:Q1=100,Quarterly,Not Seasonally Adjusted,1983-01-01,2026-08-25
 ATNHPIUS40060Q,"All-Transactions House Price Index for Richmond, VA (MSA)",Index 1995:Q1=100,Quarterly,Not Seasonally Adjusted,1976-01-01,2026-08-25
 CPIFABNS,Consumer Price Index for All Urban Consumers: Food and Beverages in U.S. City Average,Index 1982-1984=100,Monthly,Not Seasonally Adjusted,1967-01-01,2026-11-10
@@ -942,6 +941,7 @@ ATNHPIUS48900Q,"All-Transactions House Price Index for Wilmington, NC (MSA)",Ind
 CUUSA423SA0,Consumer Price Index for All Urban Consumers: All Items in Seattle-Tacoma-Bellevue WA (CBSA),Index 1982-1984=100,Semiannual,Not Seasonally Adjusted,1984-01-01,2026-07-14
 IDSTHPI,All-Transactions House Price Index for Idaho,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
 MTSTHPI,All-Transactions House Price Index for Montana,Index 1980:Q1=100,Quarterly,Not Seasonally Adjusted,1975-01-01,2026-08-25
+WFII30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",Percent,"Weekly, Ending Friday",Not Seasonally Adjusted,2010-02-26,2026-11-23
 WPU01110203,Producer Price Index by Commodity: Farm Products: Cherries,Index Dec 1991=100,Monthly,Not Seasonally Adjusted,1991-12-01,2026-08-13
 WPU12410329,"Producer Price Index by Commodity: Furniture and Household Durables: Household Refrigerators, Including Refrigerator-Freezer Combinations",Index Dec 2002=100,Monthly,Not Seasonally Adjusted,2002-12-01,2026-08-13
 ATNHPIUS32820Q,"All-Transactions House Price Index for Memphis, TN-MS-AR (MSA)",Index 1995:Q1=100,Quarterly,Not Seasonally Adjusted,1977-04-01,2026-08-25
